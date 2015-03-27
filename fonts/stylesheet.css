@@ -1,0 +1,87 @@
+@font-face {
+	font-family: 'proximanova';
+	src: url('proximanova-black.eot');
+	src: url('proximanova-black.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-black.woff') format('woff'),
+		 url('proximanova-black.ttf') format('truetype'),
+		 url('proximanova-black.svg#proximanova') format('svg');
+	font-style: normal;
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: 'proximanova';
+	src: url('proximanova-bold-italic.eot');
+	src: url('proximanova-bold-italic.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-bold-italic.woff') format('woff'),
+		 url('proximanova-bold-italic.ttf') format('truetype'),
+		 url('proximanova-bold-italic.svg#proximanova') format('svg');
+	font-style: italic;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'proximanova';
+	src: url('proximanova-bold.eot');
+	src: url('proximanova-bold.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-bold.woff') format('woff'),
+		 url('proximanova-bold.ttf') format('truetype'),
+		 url('proximanova-bold.svg#proximanova') format('svg');
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'proximanova';
+	src: url('FileName.eot');
+	src: url('FileName.eot?#iefix') format('embedded-opentype'),
+		 url('FileName.woff') format('woff'),
+		 url('FileName.ttf') format('truetype'),
+		 url('FileName.svg#proximanova') format('svg');
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'proximanova';
+	src: url('proximanova-light-italic.eot');
+	src: url('proximanova-light-italic.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-light-italic.woff') format('woff'),
+		 url('proximanova-light-italic.ttf') format('truetype'),
+		 url('proximanova-light-italic.svg#proximanova') format('svg');
+	font-style: italic;
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'proximanova';
+	src: url('proximanova-light.eot');
+	src: url('proximanova-light.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-light.woff') format('woff'),
+		 url('proximanova-light.ttf') format('truetype'),
+		 url('proximanova-light.svg#proximanova') format('svg');
+	font-style: normal;
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'proximanova';
+	src: url('ProximaNova-Reg.eot');
+	src: url('ProximaNova-Reg.eot?#iefix') format('embedded-opentype'),
+		 url('ProximaNova-Reg.woff') format('woff'),
+		 url('ProximaNova-Reg.ttf') format('truetype'),
+		 url('ProximaNova-Reg.svg#proximanova') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'proximanova';
+	src: url('proximanova-semibold.eot');
+	src: url('proximanova-semibold.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-semibold.woff') format('woff'),
+		 url('proximanova-semibold.ttf') format('truetype'),
+		 url('proximanova-semibold.svg#proximanova') format('svg');
+	font-style: normal;
+	font-weight: 600;
+}
